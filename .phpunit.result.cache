@@ -1,0 +1,1 @@
+{"version":1,"defects":{"FooTest::testIsTrue":4,"Wickedone\\Phpunit5073\\Tests\\FooTest::testIsTrue":4},"times":{"FooTest::testIsTrue":0.003,"Wickedone\\Phpunit5073\\Tests\\FooTest::testIsTrue":0.006}}

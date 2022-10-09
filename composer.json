@@ -1,0 +1,24 @@
+{
+    "name": "wickedone/phpunit-5073",
+    "description": "issue 5073 reproduction",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wickedone\\Phpunit5073\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Wickedone\\Phpunit5073\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wickedOne",
+            "email": "wicliff.wolda@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
